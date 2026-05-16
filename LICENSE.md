@@ -1,4 +1,4 @@
-# 
+# ultimate JetBrains Rider for PC | JetBrains Rider for Windows Script | docker-support + plugin-system is the best JetBrains Rider for PC | JetBrains Rider for Windows script,
 
 
 
